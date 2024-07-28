@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "2346796688",
+    "project_id": "greencode-fef0d",
+    "storage_bucket": "greencode-fef0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2346796688:android:2f5f1788c870e721adba15",
+        "android_client_info": {
+          "package_name": "com.app.greencode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2346796688-2hs8sjhgifreg0609nuqoqov6vu8gvlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.greencode",
+            "certificate_hash": "28370109fe3fdde385e29e08c58b6061ea1f4f39"
+          }
+        },
+        {
+          "client_id": "2346796688-65qhc6cu48nqkc09da6n3s5ftiukkqqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.greencode",
+            "certificate_hash": "8906926fdabff63ae3dc2d184c0e1af55bb87ff3"
+          }
+        },
+        {
+          "client_id": "2346796688-rfkeftqurvn47orrede9b7b70h259og8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJc-iFKERlrqoc61tGhnMk36y6tpph9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2346796688-rfkeftqurvn47orrede9b7b70h259og8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "2346796688-v688b23dm37pdqfsimlldnvgpkhd44ue.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.greencode"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+KeyStore Path :  /Users/pc/Documents/VPN-Bijal/Bijal Flutter/Demos/GreenCodeProject/GreenCode.jks
+KeyStore Password : GreenCode2022
+Key Alias : GreenCode
+KeyPassword : GreenCode2022
